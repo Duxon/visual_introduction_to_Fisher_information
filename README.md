@@ -6,13 +6,21 @@ The script uses `matplotlib` in `xkcd` mode to create an intuitive, step-by-step
 
 ---
 
+## ✨ Overview
+
+This image provides a glimpse of the visual style and concepts covered in the tutorial.
+
+<p align="center">
+  <img src="overview_slide.png" width="400">
+</p>
+
+---
+
 ## 📺 Tutorial Video
 
 You can watch the full tutorial presentation that these plots were created for on YouTube:
 
-[**A Visual Introduction to Fisher Information and the Cramér-Rao Lower Bound**](https://youtu.be/kP7mXLzVjck)
-
-[![Fisher Information Tutorial Video Thumbnail](https://i.imgur.com/gYx1G2y.png)](https://youtu.be/kP7mXLzVjck)
+[**A Visual Introduction to Fisher Information and the Cramér-Rao Lower Bound**](https://youtu.be/-5UwzDGaahk)
 
 ---
 
